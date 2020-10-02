@@ -12,6 +12,7 @@ things to improve:
 - stress level (number) in the stats... 
 - in stats place is still free
 - can add another stat in the middle of the bottom (enough place)
+- create battery icon, fill battery based on the actual battery level %
 
 This is just my personal wish-list so when I get more knowledge how to do this i hope i'm able to do this. ;-)
 
