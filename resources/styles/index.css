@@ -1,0 +1,30 @@
+#calendar #day {
+  font-size: 24;
+  y: 50%-12;
+  fill: lightblue;
+}
+
+#calendar #date {
+  y: 100%-24;
+  font-size: 24;
+}
+
+#time {
+  font-size: 82;
+}
+
+#battery {
+  x: 100%-60;
+  y: 3;
+  height: 16;
+  width: 60;
+}
+
+#battery text {
+  font-size: 16;
+  x: $+3;
+}
+
+line.hr {
+  fill: lightblue;
+}
